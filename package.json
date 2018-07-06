@@ -1,0 +1,9 @@
+{
+    "dependencies": {
+        "@optionality.io/clone-factory": "^0.1.6",
+        "truffle": "^4.1.13"
+    },
+    "scripts": {
+        "test": "truffle test"
+    }
+}
